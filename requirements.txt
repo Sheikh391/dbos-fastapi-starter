@@ -1,1 +1,2 @@
 dbos==0.12.0
+echo "pyTelegramBotAPI" >> requirements.txt
